@@ -11,8 +11,14 @@ redirect_from:
 
 Education
 ======
-* PhD Ecology, 2016 from the Odum School of Ecology, University of Georgia
-* BS Ecology, 2009 from the Odum School of Ecology, University of Georgia
+* PhD Ecology, University of Georgia, 2016
+* BS Ecology, University of Georgia, 2009
+
+
+Other Positions
+======
+* Postdoctoral scientist, Cary Insitute of Ecosystem Studies, 2016-2017
+* Adjunct lecturer, SUNY New Paltz, 2016
 
 
 Publications
