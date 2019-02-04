@@ -5,10 +5,10 @@ permalink: /presentations/
 author_profile: true
 ---
 
-Centers for Disease Control and Prevention Infectious Disease Modelers Community of Practice, November 2018 (Atlanta, GA) <br/>
+CDC Infectious Disease Modelers Community of Practice, November 2018 (Atlanta, GA) <br/>
 <i> Statistical prediction of human West Nile virus disease occurrence based on land cover change </i>
 
-Emory University Population Biology, Ecology, and Evolution Graduate Program, October 2018 (Atlanta, GA) [invited seminar] <br/>
+Emory University PBEE Graduate Program, October 2018 (Atlanta, GA) [invited seminar] <br/>
 <i> Applications of machine learning in disease ecology </i>
 
 University of Notre Dame Department of Biology, November 2017 (South Bend, IN) [invited seminar] <br/>
