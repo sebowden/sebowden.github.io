@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sarah E. Bowden, PhD"
-  avatar           : "team_bio_pic.png"
+  avatar           : "Team_bio_pic.png"
   bio              : "I'm a quantitative ecologist and data scientist currently working as a contractor with the CDC."
   location         : "Atlanta, GA"
   employer         :
