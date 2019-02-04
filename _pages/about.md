@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This site is under construction. Please check back frequently for updates.
+About me
+======
 
-In the meantime, please feel free to get in touch with me through any of the methods in the sidebar.
+I received my BS in Ecology from the [Odum School of Ecology](https://www.ecology.uga.edu/) at the [University of Georgia](https://www.uga.edu/) in 2009. Continuing my research in disease ecology with [Dr. John M. Drake](https://daphnia.ecology.uga.edu/drakelab/), I went on to receive my PhD in Ecology in 2016. I did my postdoc with [Dr. Barbara A. Han](https://www.caryinstitute.org/science-program/our-scientists/dr-barbara-han) at the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/). Currently, I am a data scientist contractor within the Division of Global Migration and Quarantine at the CDC. 
+
+Research interests
+========
+
