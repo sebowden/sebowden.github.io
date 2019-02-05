@@ -24,4 +24,4 @@ Data science and scientific computing
 Consulting and training
 ========
 
-I offer consulting services and hands-on training for a variety of data science tools and topics. Please contact me <a href="mailto:sebowdenphd@gmail.com" target="_top">by email</a> </p> for more information or to discuss your specific needs. 
+I offer consulting services and hands-on training for a variety of data science tools and topics. Please contact me <a href="mailto:sebowdenphd@gmail.com" target="_top">by email</a> for more information or to discuss your specific needs. 
